@@ -7,6 +7,9 @@ Step 2 An implementation of Jens Schmidt's algorihm[4] for testing whether an un
 Step3 Testing whether a directed graph is 2-vertex strongly biconnected or not
 in time O(n(n+m)).
 
+
+
+
 References
 1.Martin Dietzfelbinger, Kurt Mehlhorn, Peter Sanders: Algorithmen und Datenstrukturen - die Grundwerkzeuge. eXamen.press, Springer 2014, ISBN 978-3-642-05471-6, pp. I-XII, 1–380
 2.Kurt Mehlhorn, Stefan Näher, Peter Sanders: Engineering DFS-Based Graph Algorithms. CoRR abs/1703.10023 (2017)
